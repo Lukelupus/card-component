@@ -5,7 +5,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="wrapper">
       <Card 
         img="https://repositorio.sbrauble.com/arquivos/in/magic/479835/5ffdcf7b91fa0-19q6h-j5pg7-3736909725ffdcf7b92003.jpg"
         title="Titulo"

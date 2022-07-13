@@ -4,7 +4,7 @@ import React from "react"
 
 function Card(props) {
     return (
-        <div className="wrapper">
+      
             <div className="card">
                     <img src={props.img} alt=""></img>
                     <div className="card-body">
@@ -17,7 +17,7 @@ function Card(props) {
                         </div>
                     </div> 
             </div>
-        </div>
+       
     )
 }
 
